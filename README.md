@@ -6,4 +6,4 @@ This repository contains an easy-to-use command-line stock predictor that can ma
 
 ## Command Line Prediction Demo
 
-!<https://user-images.githubusercontent.com/43501958/82501157-a6fd7380-9aa9-11ea-8a17-07f11cdf476d.JPG>
+!<img width="649" alt="commandline" src="https://user-images.githubusercontent.com/43501958/82501157-a6fd7380-9aa9-11ea-8a17-07f11cdf476d.JPG">
