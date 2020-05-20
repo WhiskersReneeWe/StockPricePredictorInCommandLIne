@@ -14,6 +14,7 @@ Once you have fired up your terminal, the only thing you need to type in is the 
 
 * pandas, matplotlib, numpy
 * pylab
+* pyramid -- for ARIMA forecasting
 * sklearn, keras
 * More details can be found in the script
 
