@@ -29,3 +29,12 @@ This repository contains an easy-to-use command-line stock predictor that can ma
  
  ## How to use the predictor?
  
+ * Download all files to one folder and 'cd' into this folder from the terminal
+ * `python stock_predictor.py --ticker=PK --epochs=20` 
+ * Yes, you can not only choose what ticker to predict the prices for but also how many epochs you want to train
+ * You can also choose how many days you want to predict the prices for in the future.
+    `python stock_predictor.py --ticker=PK --epochs=20 --next_n_days=20`
+    
+ ## References
+ 
+ See a list of references in the project documentation
