@@ -2,7 +2,8 @@
 **(More features to come such as 
                          * directly 10-k document words analysis
                          * different statistical testing, etc
-                         * Future unseen data)**
+                         * Future unseen data
+                         * This repo is currently under HEAVY DEVELOPMENT**
 ## Introduction
 
 This repository contains an easy-to-use command-line stock predictor that can make predictions on a particular stock's prices on nultiple days in the future. The underlying model is a 2-layer LSTM neural network. It is simple yet very effective in comparison to other more traditional time series forcasting models.
