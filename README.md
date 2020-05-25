@@ -4,7 +4,7 @@
 
        * directly 10-k document words analysis
        * different statistical testing, etc
-       * Future unseen data
+       * Encode-decoder model option to allow variable input length for prediction
        * This repo is currently under **HEAVY DEVELOPMENT**)
        
 ## Introduction
