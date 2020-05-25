@@ -1,6 +1,7 @@
 # Stock Prices Predictor using Command Line Interface
 
 (More features to come such as 
+
        * directly 10-k document words analysis
        * different statistical testing, etc
        * Future unseen data
