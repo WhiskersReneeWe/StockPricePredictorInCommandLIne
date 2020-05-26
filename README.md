@@ -6,6 +6,8 @@
        * different statistical testing, etc
        * Encode-decoder model option to allow variable input length for prediction
        * Add plots visualizations
+       * sktime, tslearn, fbprophet -- things to try later on when dataset is small
+       * Try Gaussian process to model shorter period to capture the uncertainties
        
 ## Introduction
 
