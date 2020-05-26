@@ -1,11 +1,11 @@
 # Stock Prices Predictor using Command Line Interface
 
-(More features to come such as 
+## To come ... (This repo is currently under  **HEAVY DEVELOPMENT**)
 
        * directly 10-k document words analysis
        * different statistical testing, etc
        * Encode-decoder model option to allow variable input length for prediction
-       * This repo is currently under **HEAVY DEVELOPMENT**)
+       * Add plots visualizations
        
 ## Introduction
 
