@@ -51,4 +51,4 @@ Once you have fired up your terminal, the only thing you need to type in is the 
  
  ## Helpful links
  
- [LSTM cells](https://datascience.stackexchange.com/questions/20413/clarification-on-the-keras-recurrent-unit-cell)
+ * [LSTM cells](https://datascience.stackexchange.com/questions/20413/clarification-on-the-keras-recurrent-unit-cell)
